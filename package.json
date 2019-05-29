@@ -1,0 +1,30 @@
+{
+  "name": "protractorskillup",
+  "version": "1.0.0",
+  "description": "my first protractor project",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor",
+    "pretest": "webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olharshv/protractorSkillUP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olharshv/protractorSkillUP/issues"
+  },
+  "homepage": "https://github.com/olharshv/protractorSkillUP#readme",
+  "dependencies": {
+    "@types/chai": "4.1.7",
+    "@types/mocha": "5.2.6",
+    "@types/node": "11.13.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "protractor": "^5.4.2",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.4.5"
+  }
+}
