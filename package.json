@@ -4,8 +4,7 @@
   "description": "my first protractor project",
   "main": "index.js",
   "scripts": {
-    "test": "protractor",
-    "pretest": "webdriver-manager update"
+    "test": "protractor"
   },
   "repository": {
     "type": "git",
