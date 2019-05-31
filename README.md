@@ -11,4 +11,9 @@
 - put selenium and chomedriver to one folder and run command:
         java -jar selenium-server-standalone-3.141.59.jar -port 4444 and open localhost:4444
 - add config files:
--
+- git status
+- git add .
+- git commit -m 'my_comment_is_here'
+- git push
+
+- https://www.protractortest.org/#/api >>> browser > element 

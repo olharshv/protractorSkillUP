@@ -4,7 +4,9 @@
   "description": "my first protractor project",
   "main": "index.js",
   "scripts": {
-    "test": "protractor"
+    "test": "protractor",
+    "postinstall": "webdriver-manager update",
+    "ts-node": "ts-node"
   },
   "repository": {
     "type": "git",
