@@ -8,7 +8,7 @@
 - add required dependencies in package.json
 - download Selenium standalone server
 - download chomedriver
-- put selenium and chomedriver to one folder and run command java -Dwebdriver.chrome.driver=./chromedriver-mac64-74 -jar selenium-server-standalone-3.141.59.jar -port 4444 and open localhost:4444
+- put selenium and chomedriver to one folder and run command:
+        java -jar selenium-server-standalone-3.141.59.jar -port 4444 and open localhost:4444
 - add config files:
-
 -

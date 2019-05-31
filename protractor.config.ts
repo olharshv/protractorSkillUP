@@ -15,8 +15,8 @@ const config: Config = {
     reporter: 'spec'
   },
 
-   directConnect: true,
-  //seleniumAddress: 'http://localhost:4444/wd/hub', // local run
+  // directConnect: true,
+  seleniumAddress: 'http://localhost:4444/wd/hub', // local run
   // seleniumSessionId: '',
 
   // Needed to make async/await work. Disables control flow.
